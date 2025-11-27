@@ -3,7 +3,7 @@
 ### Assignment for Parallel Computing – Computer Engineering, Universitas Brawijaya (UB), 2025
 
 This project demonstrates the performance comparison between serial and parallel processing in Python by counting the most frequent words in a text file. It is created to fulfill the Parallel Computing course assignment for Computer Engineering, Universitas Brawijaya (UB), 2025.
-
+You can also download example Text on this drive https://drive.google.com/file/d/1kIzDoTLKg91aStCC6hn2YSlz3ISf0twN/view?usp=drive_link
 ## Project Overview
 
 The program reads a text file (`data.txt`), cleans the text, counts word frequencies, and displays the top 20 most frequent words. Two methods are implemented:
